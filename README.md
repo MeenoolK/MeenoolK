@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenoolk&label=Profile%20views&color=0e75b6&style=flat" alt="meenoolk" /> </p>
 
-
-- 🔭 The best article reader [My-Slide](https://github.com/MeenoolK/My-Slide)
-
 - 🌱 I’m currently developing **my skill to beat technology**
+  
+- 🔭 The best article reader [My-Slide](https://github.com/MeenoolK/My-Slide)
 
 - 👯 The best dynamic website I made [RDR2-circle](https://github.com/MeenoolK/RDR2-circle)
 
