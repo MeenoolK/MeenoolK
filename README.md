@@ -4,7 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenoolk&label=Profile%20views&color=0e75b6&style=flat" alt="meenoolk" /> </p>
 
 
-<img align="bottme" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="meenoolk"  width="400" />
+<p align="center">
+  <img
+    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+    alt="Programmer"
+    width="400"
+  />
+</p>
 
 
 <h3>About me</h3>
