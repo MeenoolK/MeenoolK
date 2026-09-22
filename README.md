@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenoolk&label=Profile%20views&color=0e75b6&style=flat" alt="meenoolk" /> </p>
 
+<img align="right" alt="coding person" width="400" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<h3>About me</h3>
+<p>I am a student of BBA. Currently learning Web development to make a combine carrier with my knowledge and passion. I started my coding journey sinch 2021. </p>
+
 - 🌱 I’m currently developing **my skill to beat technology**
   
 - 🔭 The best article reader [My-Slide](https://github.com/MeenoolK/My-Slide)
