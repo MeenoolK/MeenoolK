@@ -17,10 +17,12 @@
 <p>I am a student of BBA. Currently learning Web development to make a combine carrier with my knowledge and passion. I started my coding journey sinch 2021. </p>
 
 - 🌱 I’m currently developing **my skill to beat technology**
-  
-- 🔭 The best article reader [My-Slide](https://github.com/MeenoolK/My-Slide)
 
-- 👯 The best dynamic website I made [RDR2-circle](https://github.com/MeenoolK/RDR2-circle)
+- Some good projects
+  
+- 1. [My-Slide](https://github.com/MeenoolK/My-Slide)
+
+- 2. [RDR2-circle](https://github.com/MeenoolK/RDR2-circle)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MeenoolK?tab=repositories](https://github.com/MeenoolK?tab=repositories)
 
